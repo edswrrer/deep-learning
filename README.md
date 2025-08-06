@@ -1,0 +1,2 @@
+# deep-learning
+Yapay Nöron
